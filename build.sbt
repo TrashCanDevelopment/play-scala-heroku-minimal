@@ -19,7 +19,7 @@ libraryDependencies ++= Seq(
   "com.typesafe.play" % "play-java-jdbc_2.12" % "2.6.0-RC2"
 )
 
-dependencyOverrides ++= Set(
+dependencyOverrides ++= Seq(
   "com.typesafe.play" % "play-jdbc_2.12" % "2.6.0-RC2",
   "com.typesafe.play" % "play-jdbc-api_2.12" % "2.6.0-RC2",
   "com.typesafe.play" % "play-jdbc-evolutions_2.12" % "2.6.0-RC2",
