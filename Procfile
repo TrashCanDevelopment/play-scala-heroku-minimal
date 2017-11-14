@@ -1,1 +1,0 @@
-web: target/universal/stage/bin/play-scala-heroku-minimal -Dhttp.port=${PORT}
