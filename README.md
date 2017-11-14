@@ -1,3 +1,5 @@
 # play-scala-heroku-minimal
 
-You must set `APPLICATION_SECRET` in heroku env settings for app.
+**Heroku** + **SBT 1.0.2** + **Scala 2.12.2** + **Play 2.6.7**.
+
+Deploys just fine from GitHub.
